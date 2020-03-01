@@ -1,0 +1,16 @@
+{
+  "name": "autosallad",
+  "version": "1.0.0",
+  "description": "Autofill citysallad",
+  "main": "salad.js",
+  "dependencies": {
+    "papaparse": "^5.1.1",
+    "puppeteer-core": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simonljus",
+  "license": "MIT"
+}
