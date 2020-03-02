@@ -4,13 +4,17 @@
   "description": "Autofill citysallad",
   "main": "salad.js",
   "dependencies": {
-    "papaparse": "^5.1.1",
-    "puppeteer-core": "^2.1.1"
+    "puppeteer-core": "^2.1.1",
+    "xlsx": "^0.15.5"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "simonljus",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonljus/autosalad.git"
+  }
 }
